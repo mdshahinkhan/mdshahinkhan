@@ -21,14 +21,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
-          <entry key="html" value="3" />
+          <entry key="html" value="4" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="4" />
           <entry key="JavaScript" value="2" />
         </counts>
       </usages-collector>
@@ -60,10 +60,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js-and-css-clock/style.css">
+        <entry file="file://$PROJECT_DIR$/clock/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+            <state relative-caret-position="150">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -81,6 +81,7 @@
         <option value="$PROJECT_DIR$/js-css-clock/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js-and-css-clock/style.css" />
+        <option value="$PROJECT_DIR$/clock/index.html" />
       </list>
     </option>
   </component>
@@ -110,7 +111,7 @@
             <path>
               <item name="mdshahinkhan" type="b2602c69:ProjectViewProjectNode" />
               <item name="mdshahinkhan" type="462c0819:PsiDirectoryNode" />
-              <item name="js-and-css-clock" type="462c0819:PsiDirectoryNode" />
+              <item name="clock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mdshahinkhan" type="b2602c69:ProjectViewProjectNode" />
@@ -152,12 +153,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548307443091</updated>
       <workItem from="1548307444177" duration="572000" />
-      <workItem from="1548338619799" duration="939000" />
+      <workItem from="1548338619799" duration="1062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1511000" />
+    <option name="totallyTimeSpent" value="1634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -218,6 +219,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js-and-css-clock/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -225,10 +233,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js-and-css-clock/style.css">
+    <entry file="file://$PROJECT_DIR$/clock/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+        <state relative-caret-position="150">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
